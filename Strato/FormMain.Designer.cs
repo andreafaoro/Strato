@@ -1,6 +1,6 @@
-﻿namespace Strato
+﻿namespace Strato.Forms
 {
-  partial class Form1
+  partial class FormMain
   {
     /// <summary>
     /// Variabile di progettazione necessaria.
